@@ -10,3 +10,5 @@
 - node features: [hour, month, day] (total length is 3), mainly some related time information about node
 - edge attribute: [length, bridge, tunnel, lanes, oneway, maxspeed] (total length is 6), mainly some information about edge (factual road)
 - label: 0 or 1, 0 is generated from some negative samples
+
+- dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
